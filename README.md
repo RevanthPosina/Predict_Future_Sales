@@ -2,7 +2,7 @@
 
 [Predict_Future_Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
 
-📊 This project is from a **Kaggle Completetions** to predict total sales for every product and store in the next month
+📊 This project is from a **Kaggle Competitions** to predict total sales for every product and store in the next month
 
 Download Dataset -> kaggle competitions download -c competitive-data-science-predict-future-sales
 
